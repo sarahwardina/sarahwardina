@@ -1,5 +1,3 @@
-![banner](https://github.com/sarahwardina/sarahwardina/assets/147252849/63283009-4fe8-4613-9fca-ec5f837cd429)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Welcome+To+Wardina's+Page!)](https://git.io/typing-svg)
 
 <p align="center">Greetings, I'm Sarah Wardina binti Rafidin, a  third-year Data Engineering student at Universiti Teknologi Malaysia. My journey into the captivating world of coding has been nothing short of exhilarating, and I'm here to share my endeavors, insights, and projects as I delve deeper into the realms of technology and data engineering.</p>
